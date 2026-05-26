@@ -1,0 +1,7 @@
+{
+    "name": "s24ercupatr/app",
+    "description": "web app for lab",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
